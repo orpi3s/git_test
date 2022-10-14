@@ -1,2 +1,4 @@
 # git_test
-basic github setup on my end
+My first Github repo!
+Hello Odin!
+
